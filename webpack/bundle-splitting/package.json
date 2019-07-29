@@ -1,0 +1,19 @@
+{
+  "name": "bundle-splitting",
+  "version": "0.0.1",
+  "description": "bundle stplitting with react and universal component test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aliaksei Vasilyeu",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-router": "^4.3.1"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "webpack": "^4.13.0"
+  }
+}
